@@ -102,8 +102,7 @@ function App() {
   } else {
     return (
       <>
-        <div>Dance</div>
-        {/* <Box
+        <Box
           maxW="7xl"
           mx="auto"
           w="100%"
@@ -133,7 +132,7 @@ function App() {
                   <Link
                     fontWeight="bold"
                     color="green.900"
-                    href="https://github.com/Sholamide/naijakids"
+                    href="https://github.com/Sholamide/naijakidscatalogue"
                     isExternal
                   >
                     Github Repo
@@ -189,7 +188,7 @@ function App() {
               <GameCard key={game.GameTitle} game={game} />
             ))}
           </GameGrid>
-        </Box> */}
+        </Box>
       </>
     );
   }
