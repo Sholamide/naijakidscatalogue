@@ -102,7 +102,8 @@ function App() {
   } else {
     return (
       <>
-        <Box
+        <div>Dance</div>
+        {/* <Box
           maxW="7xl"
           mx="auto"
           w="100%"
@@ -188,7 +189,7 @@ function App() {
               <GameCard key={game.GameTitle} game={game} />
             ))}
           </GameGrid>
-        </Box>
+        </Box> */}
       </>
     );
   }
