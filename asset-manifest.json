@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/naijakidscatalogue/static/js/main.0650b2ba.chunk.js",
+    "main.js.map": "/naijakidscatalogue/static/js/main.0650b2ba.chunk.js.map",
+    "runtime-main.js": "/naijakidscatalogue/static/js/runtime-main.4b7b46cd.js",
+    "runtime-main.js.map": "/naijakidscatalogue/static/js/runtime-main.4b7b46cd.js.map",
+    "static/js/2.dab614bd.chunk.js": "/naijakidscatalogue/static/js/2.dab614bd.chunk.js",
+    "static/js/2.dab614bd.chunk.js.map": "/naijakidscatalogue/static/js/2.dab614bd.chunk.js.map",
+    "index.html": "/naijakidscatalogue/index.html",
+    "static/js/2.dab614bd.chunk.js.LICENSE.txt": "/naijakidscatalogue/static/js/2.dab614bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7b46cd.js",
+    "static/js/2.dab614bd.chunk.js",
+    "static/js/main.0650b2ba.chunk.js"
+  ]
+}
